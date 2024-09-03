@@ -25,3 +25,7 @@ d. Set the port to 80.
 e. Configure other settings such as CPU, memory, and environment variables if necessary.
 f. Review and create the container instance.
 g. Access the Container: After deployment, you’ll get a public IP address where you can access your PHP script.
+
+
+OR
+Create Azure app service using container image on the Azure container repository
