@@ -30,3 +30,4 @@ g. Access the Container: After deployment, you’ll get a public IP address wher
 OR
 Create Azure app service using container image on the Azure container repository
 
+chuk
